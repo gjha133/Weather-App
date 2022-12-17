@@ -1,0 +1,3 @@
+Get current weather data by city, ZIP code, or geolocation coordinates (latitude/longitude).
+
+Try it on https://weatherapp1029.netlify.app/
